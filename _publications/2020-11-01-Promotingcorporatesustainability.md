@@ -7,7 +7,7 @@ date: November 2020
 venue: 'Environmental Impact Assessment Review'
 paperurl: 
 ---
-<a href='http://lixia1118.github.io/xiali_academic.github.io/files/Promoting corporate sustainability through sustainable resource management A hybrid decision-making approach incorporating social media data .pdf'>Download Paper Here</a>
+<a href='http://lixia1118.github.io/xialinov18.github.io/files/Promotingcorporatesustainability.pdf'>Download Paper Here</a>
 
 **Abstract**: Previous studies revealed triple bottom line cannot entirely cover the concept of corporate sustainability. This
 study thus uses sustainable resource management (SRM) to improve corporate sustainability (CS) performance
