@@ -5,7 +5,7 @@ permalink: /publication/2023-06-01-Interlockboard
 excerpt: 
 date: December 2024
 venue: 'IEEE Transactions on Engineering Management'
-slidesurl: 'http://lixia1118.github.io/xialinov18.github.io/files/files/Interlock_Final_supplemental_file.pdf'
+slidesurl: 'http://lixia1118.github.io/xialinov18.github.io/files/Interlock_Final_supplemental_file.pdf'
 paperurl: 'http://lixia1118.github.io/xialinov18.github.io/files/Board_Interlock_Networks_and_Corporate_Low-Carbon_Innovation_in_China.pdf'
 ---
 
