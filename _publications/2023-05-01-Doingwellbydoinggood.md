@@ -1,7 +1,7 @@
 ---
 title: "Doing well by doing good: Unpacking the black box of corporate social responsibility"
 collection: publications
-permalink: /publication/csr-2023-May
+permalink: /publication/2023-05-01-Doingwellbydoinggood
 excerpt:
 date: May 2023
 venue: 'Asia Pacific Journal of Management'
