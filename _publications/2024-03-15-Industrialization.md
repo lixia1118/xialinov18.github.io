@@ -1,0 +1,10 @@
+---
+title: "Industrialization, urbanization, and innovation: Nonlinear drivers of carbon emissions in Chinese cities"
+collection: publications
+permalink: /publication/2024-03-15-Industrialization
+date: 2024-03-15
+venue: 'Applied Energy'
+paperurl: 'http://lixia1118.github.io/xialinov18.github.io/files/Industrializationurbanization.pdf'
+slidesurl:
+---
+ **Abstract**: As the world's largest developing nation, China has emerged as the predominant carbon emitter due to its swift industrialization and urbanization. Achieving low-carbon development in China necessitates a tailored approach that accounts for each city's unique industrial phase, technological advancements, urbanization level, and resources. This research endeavors to elucidate the nonlinear mechanism influencing carbon emissions in Chinese cities using a machine-learning framework, drawing on panel data from 290 cities from 2000 to 2017. The result indicates that China is experiencing a transition in the primary drivers of carbon emissions from the agriculture sector to the industrial and?service sectors. A city transitions to the carbon decoupling phase when the outputs of primary, secondary, and tertiary industries surpass 1500, 125,000, and 100,000 CNY per capita, respectively. Additionally, we observed that expanding the urban built-up area beyond 10% can significantly mitigate carbon emission intensity. However, the study also highlights a critical challenge: the initial emission-reducing effects of innovation in burgeoning high-tech industries are negated by the higher emissions from traditional industries. Moreover, our analysis indicates that R&D investments exceeding RMB 8000 per capita may paradoxically lead to an increase in emissions. With these conclusions of nonlinearity, we emphasize designing policies tailored to the specificities of each city, stressing the importance of adaptability in policy creation.

@@ -1,0 +1,10 @@
+---
+title: "Future trends and guidance for the triple bottom line and sustainability: A data driven bibliometric analysis"
+collection: publications
+permalink: /publication/2020-06-01-Futuretrend
+date: 2020-06-01
+venue: 'Environmental Science and Pollution Research'
+paperurl: 'http://lixia1118.github.io/xialinov18.github.io/files/Future trends and guidance for the triple bottom line.pdf'
+slidesurl:
+---
+ **Abstract**: This study conducts a comprehensive literature review of articles on the triple bottom line (TBL) published from January 1997 to September 2018 to provide significant insights and support to guide further discussion. There were three booms in TBL publications, occurring in 2003, 2011, and 2015, and many articles attempt to address the issue of sustainability by employing the TBL. This literature analysis includes 720, 132, and 58 articles from the Web of Science (WOS), Inspec, and Scopus databases, respectively, and reveals the gaps in existing research. To discover the barriers and points of overlap, these articles are categorized into six aspects of the TBL: economic, environmental, social, operations, technology, and engineering. Examining the top 3 journals in terms of published articles on each aspect reveals the research trends and gaps. The findings provide solid evidence confirming the argument that the TBL as currently defined is insufficient to cover the entire concept of sustainability. The social and engineering aspects still require more discussion to support the linkage of the TBL and to reinforce its theoretical basis. Additionally, to discover the gaps in the data sources, theories applied, methods adopted, and types of contributions, this article summarizes 82 highly cited articles covering each aspect. This article offers theoretical insights by identifying the top contributing countries, institutions, authors, keyword networks, and authorship networks to encourage scholars to push the current discussion further forward, and it provides practical insights to bridge the gap between theory and practice for enhancing the efficiency and effectiveness of improvements.
