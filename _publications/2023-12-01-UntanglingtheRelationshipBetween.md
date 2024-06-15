@@ -1,7 +1,7 @@
 ---
 title: "Untangling the Relationship Between Corporate Political Ties and Low-Carbon Innovation: The Moderating Roles of Prominence and Favorability"
 collection: publications
-permalink: /publication/cpt-gi-2023-Dec
+permalink: /publication/2023-12-01-UntanglingtheRelationship
 excerpt: 
 date: December 2023
 venue: 'IEEE Transactions on Engineering Management'
