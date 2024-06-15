@@ -1,5 +1,5 @@
 ---
-title: "China��s restoration fees require transparency"
+title: "China's restoration fees require transparency"
 collection: publications
 permalink: /publication/2022-07-21-Restoration
 date: 2022-07-21
