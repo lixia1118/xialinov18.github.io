@@ -8,7 +8,7 @@ venue: 'IEEE Transactions on Engineering Management'
 paperurl: 
 appendixurl: 
 ---
-<a href='http://lixia1118.github.io/xiali_academic.github.io/files/Interlock Final_supplemental_file.pdf'>Download Paper Here</a> | <a href='http://lixia1118.github.io/xiali_academic.github.io/files/files/Interlock Final_supplemental_file.pdf'>Download Appendix Here</a> 
+<a href='http://lixia1118.github.io/xialinov18.github.io/files/Interlock Final_supplemental_file.pdf'>Download Paper Here</a> | <a href='http://lixia1118.github.io/xialinov18.github.io/files/files/Interlock_Final_supplemental_file.pdf'>Download Appendix Here</a> 
 
 **Abstract**: Through combining the resource dependence theory and social network theory, this study sheds light on how two major
 kinds of interlocking network positions—central network position
