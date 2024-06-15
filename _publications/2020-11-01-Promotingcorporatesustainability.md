@@ -5,9 +5,8 @@ permalink: /publication/2020-11-01-Promotingcorporatesustainability
 excerpt: 
 date: November 2020
 venue: 'Environmental Impact Assessment Review'
-paperurl: 
+paperurl: 'http://lixia1118.github.io/xialinov18.github.io/files/Promotingcorporatesustainability.pdf'
 ---
-<a href='http://lixia1118.github.io/xialinov18.github.io/files/Promotingcorporatesustainability.pdf'>Download Paper Here</a>
 
 **Abstract**: Previous studies revealed triple bottom line cannot entirely cover the concept of corporate sustainability. This
 study thus uses sustainable resource management (SRM) to improve corporate sustainability (CS) performance
