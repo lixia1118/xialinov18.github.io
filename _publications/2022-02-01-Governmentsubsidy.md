@@ -1,7 +1,7 @@
 ---
 title: "Government subsidy and corporate green innovation - Does board governance play a role?"
 collection: publications
-permalink: /publication/gs-gi-2022-Feb
+permalink: /publication/2022-02-01-Governmentsubsidy
 excerpt: 
 date: February 2022
 venue: 'Energy Policy'
