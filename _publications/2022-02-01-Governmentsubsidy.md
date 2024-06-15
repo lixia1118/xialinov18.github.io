@@ -5,9 +5,8 @@ permalink: /publication/2022-02-01-Governmentsubsidy
 excerpt: 
 date: February 2022
 venue: 'Energy Policy'
-paperurl: 
+paperurl: 'http://lixia1118.github.io/xialinov18.github.io/files/Governmentsubsidy.pdf'
 ---
-<a href='http://lixia1118.github.io/xialinov18.github.io/files/Governmentsubsidy.pdf'>Download Paper Here</a>
 
 **Abstract**: This study attempts to uncover the curvilinear relationship between government subsidies and corporate green
 innovation in China’s new energy vehicle (NEV) industry, and investigate the moderating effect of board
