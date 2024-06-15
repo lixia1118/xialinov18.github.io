@@ -1,7 +1,7 @@
 ---
 title: "Promoting corporate sustainability through sustainable resource management: A hybrid decision-making approach incorporating social media data"
 collection: publications
-permalink: /publication/cs-srm-2022-Nov
+permalink: /publication/2020-11-01-Promotingcorporatesustainability
 excerpt: 
 date: November 2020
 venue: 'Environmental Impact Assessment Review'
