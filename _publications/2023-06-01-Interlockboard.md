@@ -1,7 +1,7 @@
 ---
 title: "Board Interlock Networks and Corporate Low-Carbon Innovation in China: Does Position Matter?"
 collection: publications
-permalink: /publication/interlock-gi-2023-Dec
+permalink: /publication/2023-06-01-Interlockboard
 excerpt: 
 date: December 2024
 venue: 'IEEE Transactions on Engineering Management'
