@@ -7,7 +7,7 @@ date: February 2022
 venue: 'Energy Policy'
 paperurl: 
 ---
-<a href='http://lixia1118.github.io/xiali_academic.github.io/files/Government subsidy and corporate green innovation - does board governance play a role.pdf'>Download Paper Here</a>
+<a href='http://lixia1118.github.io/xialinov18.github.io/files/Governmentsubsidy.pdf'>Download Paper Here</a>
 
 **Abstract**: This study attempts to uncover the curvilinear relationship between government subsidies and corporate green
 innovation in China’s new energy vehicle (NEV) industry, and investigate the moderating effect of board
