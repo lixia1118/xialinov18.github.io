@@ -6,7 +6,7 @@ excerpt:
 date: December 2024
 venue: 'IEEE Transactions on Engineering Management'
 paperurl: 'http://lixia1118.github.io/xialinov18.github.io/files/Board_Interlock_Networks_and_Corporate_Low-Carbon_Innovation_in_China.pdf'
-appendixurl: 'http://lixia1118.github.io/xialinov18.github.io/files/files/Interlock_Final_supplemental_file.pdf'
+slidesurl: 'http://lixia1118.github.io/xialinov18.github.io/files/files/Interlock_Final_supplemental_file.pdf'
 ---
 
 **Abstract**: Through combining the resource dependence theory and social network theory, this study sheds light on how two major
