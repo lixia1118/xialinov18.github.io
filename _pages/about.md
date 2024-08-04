@@ -14,7 +14,7 @@ I am particularly interested in:
 - How firms overcome the path-dependency of non-green innovation when developing green innovation.
 - The driving factors that encourage or discourage firms from developing green innovation.
 - The (dis)advantages that green innovation brings to firms.
-- How firms calibrate their green innovation strategies in the real world.
+- When, How, and Why firms calibrate their green innovation strategies under some certain circumstances.
 
 
 News
